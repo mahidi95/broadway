@@ -23,11 +23,39 @@ h1 {
   color: white;
 }
 
-.header {
+.background {
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
   background-size: cover;
 }
 
 a {
   color: white;
+  font-size: 18px;
+  font-weight: normal;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+h4 {
+  font-size: 14px;
+}
+
+h5 {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+.footer h6 {
+  color: white;
+  background-color: dimgray;
+  font-size: 11px;
 }
